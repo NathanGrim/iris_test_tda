@@ -1,0 +1,18 @@
+4D Iris Dataset Persistent Homology Analysis
+==================================================
+
+BETTI NUMBER SUMMARY:
+--------------------
+beta_0: max=149, mean=10.66
+beta_1: max=5, mean=0.24
+beta_2: max=0, mean=0.00
+beta_3: max=0, mean=0.00
+
+FILTRATION RANGE: 0 to 5.3097
+TOTAL SAMPLES: 50
+
+FEATURE SUMMARY:
+---------------
+H_0: 148 features
+H_1: 31 features
+H_2: 4 features
